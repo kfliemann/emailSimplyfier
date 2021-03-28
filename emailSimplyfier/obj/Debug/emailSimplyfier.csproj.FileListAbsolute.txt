@@ -1,0 +1,14 @@
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\emailSimplyfier.dll
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\emailSimplyfier.pdb
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\emailSimplyfier.dll.manifest
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\emailSimplyfier.vsto
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.csprojAssemblyReference.cache
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.menueBand.resources
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.Properties.Resources.resources
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.csproj.GenerateResource.cache
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.csproj.CopyComplete
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.dll
+C:\Users\Praktikant\outlook-add-in\emailSimplyfier\obj\Debug\emailSimplyfier.pdb
